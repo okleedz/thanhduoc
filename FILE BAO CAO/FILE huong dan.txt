@@ -1,0 +1,3 @@
+Add các thư viện bằng cách : python install requirements.txt
+sau đó chạy : python manage.py runsever
+task thứ hai : python manage.py process_task
